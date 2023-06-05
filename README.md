@@ -3,8 +3,8 @@
 
 
 
-Abhishek is a Student in Trinity College Dublin, persuing Master's in Computational Engineering. Previously he worked in various industrial automation PLC / SCADA Projects, successfully designing and commissioning various control systems. 
-He is currently passionate about Deep learning, Image and Video processing and Integrated system Designs.
+I am a Student in Trinity College Dublin, persuing Master's in Computational Engineering. Previously I have worked in various industrial automation PLC / SCADA Projects, successfully designing and commissioning various control systems. 
+My area of interset lies in Deep learning, exploring federated frameworks for machine learning, Image and Video processing and Integrated system Designs.
 
 
 <h3 align="left">Connect with Abhishek:</h3>
