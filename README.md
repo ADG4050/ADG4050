@@ -3,8 +3,14 @@
 
 
 
-I am a Student in Trinity College Dublin, persuing Master's in Computational Engineering. Previously I have worked in various industrial automation PLC / SCADA Projects, successfully designing and commissioning various control systems. 
-My area of interset lies in Deep learning, exploring federated frameworks for machine learning, Image and Video processing and Integrated system Designs.
+I am a Student in Trinity College Dublin, persuing Master's in Computational Engineering. Previously I have worked in various industrial automation and IOT / SCADA Space.
+My area of interset lies in Deep learning, exploring federated frameworks for machine learning, exploring AR / XR Techniques and Integrated system Designs. 
+
+Some of my AR and VR PRojects are available in below links.
+
+VR Project : Naruto VR Environment (https://youtu.be/HOvs8PGjUCA)
+AR PRoject : ARENA VISION APP (https://youtu.be/YS0dDZ4MoH0)
+VR Concept Video : Naruto Village Concept Video (https://youtu.be/s6-8-Xczee4)
 
 
 <h3 align="left">Connect with Abhishek:</h3>
