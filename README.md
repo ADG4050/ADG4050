@@ -9,7 +9,9 @@ My area of interset lies in Deep learning, exploring federated frameworks for ma
 Some of my AR and VR PRojects are available in below links.
 
 VR Project : Naruto VR Environment (https://youtu.be/HOvs8PGjUCA)
+
 AR PRoject : ARENA VISION APP (https://youtu.be/YS0dDZ4MoH0)
+
 VR Concept Video : Naruto Village Concept Video (https://youtu.be/s6-8-Xczee4)
 
 
