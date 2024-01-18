@@ -1,12 +1,10 @@
 ### Hi there 👋, Lets introduce you to ADG4050
 
+I work and research in the field of Electronics and Computational Engineering, focusing on federated learning, Explainable AI and reinforced learning for time series internet traffic networks. Previously I have had a demonstrated history of working and leading automation and control projects in the MEP industry. 
 
+Currently pursuing my PhD in IMDEA Networks, Madrid, having completed my Masters in Electronic Information Engineering with Computational Strand from Trinity College Dublin.  
 
-
-I am a Student in Trinity College Dublin, persuing Master's in Computational Engineering. Previously I have worked in various industrial automation and IOT / SCADA Space.
-My area of interset lies in Deep learning, exploring federated frameworks for machine learning, exploring AR / XR Techniques and Integrated system Designs. 
-
-Some of my AR and VR PRojects are available in below links.
+Some of my cool AR and VR PRojects are below:
 
 VR Project : Naruto VR Environment (https://youtu.be/HOvs8PGjUCA)
 
