@@ -7,10 +7,11 @@ Currently pursuing my PhD in IMDEA Networks, Madrid, having completed my Masters
 Some of my cool AR and VR PRojects are below:
 
 VR Project : Naruto VR Environment (https://youtu.be/HOvs8PGjUCA)
-
 AR PRoject : ARENA VISION APP (https://youtu.be/YS0dDZ4MoH0)
 
-VR Concept Video : Naruto Village Concept Video (https://youtu.be/s6-8-Xczee4)
+IEEE Smart Grid Comm Conference Presentation for Fed learning for load forecasting (https://www.youtube.com/watch?v=B6IFo5cdIcc&t=91s) 
+
+
 
 
 <h3 align="left">Connect with Abhishek:</h3>
