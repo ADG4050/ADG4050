@@ -1,4 +1,4 @@
-### Hi there 👋, Lets introduce you to ADG4050
+### Hi there 👋, 
 
 I work and research in the field of Electronics and Computational Engineering, focusing on federated learning, Explainable AI and reinforced learning for O-RAn AI/ML Solutions. Previously I have had a demonstrated history of working and leading automation and control projects in the MEP industry. 
 
