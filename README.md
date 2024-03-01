@@ -1,15 +1,13 @@
 ### Hi there 👋, 
 
-I work and research in the field of Electronics and Computational Engineering, focusing on federated learning, Explainable AI and reinforced learning for O-RAn AI/ML Solutions. Previously I have had a demonstrated history of working and leading automation and control projects in the MEP industry. 
-
-Currently pursuing my PhD in IMDEA Networks, Madrid, having completed my Masters in Electronic Information Engineering with Computational Strand from Trinity College Dublin.  
+I work and research in the field of Computational Engineering, focusing on federated learning, Explainable AI and reinforced learning solutions and algorithms. Currently pursuing my PhD in IMDEA Networks, Madrid, having completed my Masters in Electronic Information Engineering with Computational Strand from Trinity College Dublin.  
 
 Some of my cool AR and VR PRojects are below:
 
 VR Project : Naruto VR Environment (https://youtu.be/HOvs8PGjUCA)
 AR PRoject : ARENA VISION APP (https://youtu.be/YS0dDZ4MoH0)
 
-IEEE Smart Grid Comm Conference Presentation for Fed learning for load forecasting (https://www.youtube.com/watch?v=B6IFo5cdIcc&t=91s) 
+IEEE Smart Grid Comm Conference Presentation for application of light weight Fed learning for distributed load forecasting (https://www.youtube.com/watch?v=B6IFo5cdIcc&t=91s) 
 
 
 
