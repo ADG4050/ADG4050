@@ -12,7 +12,7 @@ IEEE Smart Grid Comm Conference Presentation for application of light weight Fed
 
 
 
-<h3 align="left">Connect with Abhishek:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/iamadg0540/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek duttagupta" height="30" width="40" /></a>
 </p>
