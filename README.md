@@ -2,7 +2,7 @@
 
 I work and research in the field of Computational Engineering, focusing on federated learning, Explainable AI and reinforced learning solutions and algorithms. Currently pursuing my PhD in IMDEA Networks, Madrid, having completed my Masters in Electronic Information Engineering with Computational Strand from Trinity College Dublin.  
 
-Some of my cool AR and VR PRojects are below:
+Some of my AR and VR PRojects are below:
 
 VR Project : Naruto VR Environment (https://youtu.be/HOvs8PGjUCA)
 
