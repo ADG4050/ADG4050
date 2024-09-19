@@ -1,17 +1,12 @@
 ### Hi there 👋, 
 
-I work and research in the field of Computational Engineering, focusing on federated learning, Explainable AI and reinforced learning solutions and algorithms. Currently pursuing my PhD in IMDEA Networks, Madrid, having completed my Masters in Electronic Information Engineering with Computational Strand from Trinity College Dublin.  
+I am a researcher and PhD Student focusing on federated learning, Explainable AI and reinforced learning solutions and algorithms for Mobile Networks.
 
-Some of my AR and VR Projects using Unity Game development are below:
+Some of my AR and VR Projects, I hobbied are below, please have a look:
 
-VR Project : Naruto VR Environment (https://youtu.be/HOvs8PGjUCA)
+VR Project : [Naruto VR Environment](https://youtu.be/HOvs8PGjUCA)
 
-AR PRoject : ARENA VISION APP (https://youtu.be/YS0dDZ4MoH0)
-
-IEEE Smart Grid Comm Conference Presentation for application of light weight Fed learning for distributed load forecasting (https://www.youtube.com/watch?v=B6IFo5cdIcc&t=91s) 
-
-Hugging Face account for my Reinforcement Learning Works : https://huggingface.co/ADG-2353
-
+AR PRoject : [ARENA VISION APP](https://youtu.be/YS0dDZ4MoH0)
 
 
 <h3 align="left">Connect with me:</h3>
