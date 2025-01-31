@@ -1,6 +1,6 @@
 ### Hi there 👋, 
 
-I am a researcher and PhD Student focusing on federated learning, Explainable AI and reinforced learning solutions and algorithms for Mobile Networks.
+I am a researcher and PhD Student focusing on federated learning, Explainable AI and reinforcement learning solutions and algorithms for Mobile Networks.
 
 Some of my AR and VR Projects, I hobbied are below, please have a look:
 
