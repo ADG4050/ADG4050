@@ -9,7 +9,7 @@ I’m a **PhD student and researcher** passionate about **Explainable AI**, and 
 
 As a fun fact, I’ve created a **Naruto VR Environment** ([link](https://youtu.be/HOvs8PGjUCA)) and an **XR Application for real-world relays of football stadiums** ([link](https://youtu.be/YS0dDZ4MoH0)).
 
-- 🔬 Currently working on: Optimizing mobile networks with AI-driven solutions.
+- 🔬 Currently working on: Explaining AI-driven solutions for Mobile Networks.
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/iamadg0540/)
 - 🌐 Check out my portfolio: [abhishek-duttagupta.github.io](https://abhishek-duttagupta.github.io) *(Coming Soon!)*
 
