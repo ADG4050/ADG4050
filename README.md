@@ -48,7 +48,7 @@ As a fun fact, I’ve created a **Naruto VR Environment** ([link](https://youtu.
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adg4050&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=adg4050&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adg4050&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
