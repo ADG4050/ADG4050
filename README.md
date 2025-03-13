@@ -7,7 +7,17 @@
 ### 🚀 About Me
 I’m a **PhD student and researcher** passionate about **Explainable AI**, and **Reinforcement Learning** solutions for Mobile Networks. 
 
-As a fun fact, I’ve created a **Naruto VR Environment** ([link](https://youtu.be/HOvs8PGjUCA)) and an **XR Application for real-world relays of football stadiums** ([link](https://youtu.be/YS0dDZ4MoH0)).
+As an **interesting tidbit**, I’ve created a **Naruto VR Environment** ([link](https://youtu.be/HOvs8PGjUCA)) and an **XR Application for real-world relays of football stadiums** ([link](https://youtu.be/YS0dDZ4MoH0)).
+
+<!-- Thumbnails for the projects -->
+<div align="center">
+  <a href="https://youtu.be/HOvs8PGjUCA">
+    <img src="https://img.youtube.com/vi/HOvs8PGjUCA/0.jpg" alt="Naruto VR Thumbnail" width="400" height="300"/>
+  </a>
+  <a href="https://youtu.be/YS0dDZ4MoH0">
+    <img src="https://img.youtube.com/vi/YS0dDZ4MoH0/0.jpg" alt="XR Football Relay Thumbnail" width="400" height="300"/>
+  </a>
+</div>
 
 - 🔬 Currently working on: Explaining AI-driven solutions for Mobile Networks.
 - 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/iamadg0540/)
@@ -48,7 +58,7 @@ As a fun fact, I’ve created a **Naruto VR Environment** ([link](https://youtu.
 
 ### 📊 GitHub Stats
 <div align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=adg4050&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" /> -->
+  <img src="https://raw.githubusercontent.com/adg4050/adg4050/main/assets/stats.svg" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adg4050&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
