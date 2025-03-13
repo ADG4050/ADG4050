@@ -1,0 +1,29 @@
+name: Generate GitHub Stats
+on:
+  schedule: [{cron: "0 0 * * *"}] # Daily at midnight
+  workflow_dispatch: # Allows manual triggering
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: adg4050
+          template: classic
+          base: ""
+          plugin_introduction: no
+          plugin_lines: no
+          plugin_traffic: no
+          plugin_stars: yes
+          plugin_followup: no
+          plugin_habits: no
+          plugin_isocalendar: no
+          plugin_languages: no
+          plugin_notable: no
+          plugin_repos: yes
+          plugin_issues: yes
+          filename: assets/stats.svg
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update GitHub stats
