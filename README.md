@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-I’m a **PhD student and researcher** passionate about **Explainable AI**, and **Reinforcement Learning** solutions for Mobile Networks. 
+I’m a **PhD student and researcher** passionate about **Robust, Explainable, Intent-driven Reinforcement Learning** solutions for Mobile Networks. 
 
 As an **interesting tidbit**, I’ve created a **Naruto VR Environment** ([link](https://youtu.be/HOvs8PGjUCA)) and an **XR Application for real-world relays of football stadiums** ([link](https://youtu.be/YS0dDZ4MoH0)).
 
