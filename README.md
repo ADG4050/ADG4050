@@ -3,18 +3,7 @@
 
 PhD Researcher at IMDEA Networks Institute & Universidad Carlos III de Madrid.
 
-I work on reinforcement learning for intelligent and networked systems, with a focus on learning-based control in complex, dynamic environments.
-
-My research explores how RL agents can become more:
-
-* Adaptive — learning effective decisions from interaction with their environment
-* Explainable — making the reasoning behind decisions understandable
-* Controllable — allowing domain knowledge and constraints to guide behavior
-* Robust — maintaining reliable performance under changing conditions
-* Proactive — using forecasts and future information for better decisions
-
-
-
+I work on reinforcement learning for intelligent and networked systems, with a focus on learning-based control and making RL agents explainable, controllable, robust, and proactive.
 
 **Interesting Fact**, I’ve made an amateur **Naruto VR Environment** ([link](https://youtu.be/HOvs8PGjUCA)) and an **XR Application for real-world relays of football stadiums** ([link](https://youtu.be/YS0dDZ4MoH0)).
 
