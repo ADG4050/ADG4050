@@ -1,9 +1,8 @@
 
 
+I am a researcher persuing my PhD in Electrical and Computer Engineering, based in Madrid, Spain.
+My research interests are in the intersection of Reinforcement learning and Symbolic AI for networked systems.
 
-PhD Researcher at IMDEA Networks Institute & Universidad Carlos III de Madrid.
-
-I work on reinforcement learning for intelligent and networked systems, with a focus on learning-based control and making RL agents explainable, controllable, robust, and proactive.
 
 **Interesting Fact**, I’ve made an amateur **Naruto VR Environment** ([link](https://youtu.be/HOvs8PGjUCA)) and an **XR Application for real-world relays of football stadiums** ([link](https://youtu.be/YS0dDZ4MoH0)).
 
