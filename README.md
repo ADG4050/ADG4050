@@ -8,9 +8,6 @@
 </p>
 
 
-
-## Hi, I'm Abhishek 👋
-
 PhD researcher at **[IMDEA Networks](https://networks.imdea.org/)** and **[UC3M](https://www.uc3m.es/home)** in Madrid. I work at the intersection of **reinforcement learning, symbolic AI and networked systems**. Previously, I have completed my Masters in Electronics Information Engineering from Trinity College Dublin. Currently I am a visiting PhD student at Dept. of ECE, at Carnegie Mellon University (CMU), in Pittsburgh, PA, USA.  
 
 
