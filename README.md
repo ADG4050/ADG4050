@@ -21,7 +21,7 @@ PhD researcher at **[IMDEA Networks](https://networks.imdea.org/)** and **[UC3M]
 
 ## 🎮 Side quests
 
-Before PhD I had built things in Unity and XR. Two of them still make me smile.
+Previously, I had built things in Unity and XR, two of them still make me smile 🥹.
 
 <table>
 <tr>
