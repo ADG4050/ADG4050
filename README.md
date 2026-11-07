@@ -38,16 +38,6 @@ Previously, I had built things in Unity and XR, two of them still make me smile 
 </tr>
 </table>
 
-## 🔬 Featured repositories
-
-<p align="center">
-  <a href="https://github.com/RAINet-Lab/SYMBXRL"><img src="https://github-readme-stats.vercel.app/api/pin/?username=RAINet-Lab&repo=SYMBXRL&theme=tokyonight&hide_border=true&bg_color=0F1B2D&title_color=63B9D3&icon_color=63B9D3&text_color=B9CBD6" alt="SymbXRL"></a>
-  <a href="https://github.com/ADG4050/Exploring-Lightweight-Federated-Learning-for-load-forecasting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ADG4050&repo=Exploring-Lightweight-Federated-Learning-for-load-forecasting&theme=tokyonight&hide_border=true&bg_color=0F1B2D&title_color=63B9D3&icon_color=63B9D3&text_color=B9CBD6" alt="Federated load forecasting"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ADG4050/Image-Edge-Detection-PYNQ"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ADG4050&repo=Image-Edge-Detection-PYNQ&theme=tokyonight&hide_border=true&bg_color=0F1B2D&title_color=63B9D3&icon_color=63B9D3&text_color=B9CBD6" alt="PYNQ edge detection"></a>
-  <a href="https://github.com/ADG4050/Bayesian-Matting-Implementation"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ADG4050&repo=Bayesian-Matting-Implementation&theme=tokyonight&hide_border=true&bg_color=0F1B2D&title_color=63B9D3&icon_color=63B9D3&text_color=B9CBD6" alt="Bayesian matting"></a>
-</p>
 
 
 <p align="center">
